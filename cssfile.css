@@ -1,0 +1,19 @@
+        body{
+            background-color:#ddedaa;
+}       
+
+        h1{
+            color:red;
+            font-size:22px;
+                background-color:cyan;
+        }
+        h2{
+            color:green;
+            font-size:14px;
+            background-color:yellow;
+        }
+        
+        .List{
+            text-align:center;
+        }
+        
